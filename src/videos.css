@@ -1,0 +1,12 @@
+.video {
+  border-radius: 10px;
+}
+
+.contaner {
+  position: relative;
+
+  height: 100%;
+  width: 100%;
+  border-radius: 20px;
+  display: flex;
+}

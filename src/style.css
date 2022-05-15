@@ -1,0 +1,18 @@
+.app{
+  color: white;
+  margin: auto;
+  overflow-x: hidden;
+  height: 500px;
+  width: 280px;
+  border-radius: 20px;
+  position: relative;
+}
+
+.app::-webkit-scrollbar {
+  display: none;
+}
+
+.app {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
