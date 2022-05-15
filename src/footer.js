@@ -1,6 +1,5 @@
 import React from 'react';
 import MusicNoteIcon from '@mui/icons-material/MusicNote';
-import Ticker from 'react-ticker';
 
 import './footer.css';
 const videoCompo = ({ channel, description, song }) => {
